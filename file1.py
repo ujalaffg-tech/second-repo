@@ -1,0 +1,7 @@
+print(" this is my second repo .")
+print(" in this repo , i have learened how to upload a local repo to github .")
+print(" for this, i created a folder .")
+print(" then , in this folder added a file1.py .")
+print("and after that , i converted this repo into git .")
+print("after some changes on file , then commit ")
+print("then file linked with repo .")
